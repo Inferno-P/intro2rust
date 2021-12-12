@@ -1,1 +1,1 @@
-/home/adamya/SOL/RUST_SANDBOX/target/debug/RUST_SANDBOX: /home/adamya/SOL/RUST_SANDBOX/src/main.rs /home/adamya/SOL/RUST_SANDBOX/src/strings.rs /home/adamya/SOL/RUST_SANDBOX/src/types.rs
+/home/adamya/SOL/RUST_SANDBOX/intro2rust/target/debug/RUST_SANDBOX: /home/adamya/SOL/RUST_SANDBOX/intro2rust/src/arrays.rs /home/adamya/SOL/RUST_SANDBOX/intro2rust/src/main.rs /home/adamya/SOL/RUST_SANDBOX/intro2rust/src/strings.rs /home/adamya/SOL/RUST_SANDBOX/intro2rust/src/tuples.rs /home/adamya/SOL/RUST_SANDBOX/intro2rust/src/types.rs
