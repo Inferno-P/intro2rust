@@ -17,11 +17,36 @@ pub fn run(){
 
 
     // Add a string
-    hello.push_str("orld!");
+    hello.push_str("orld  ol' billy !");
     println!("String = {}.", hello);
 
     // Get mem capacity of a string var(in Bytes)
     println!("Capacity = {}.\nLength = {}.", hello.capacity(),hello.len());
+    
+    //Check if substrsing present? 
+    println!("Contains 'World' {} ", hello.contains("World"));
+
+    //Replace string 
+    println!("Replace: {}", hello.replace("World"," There ol billy!"));
+
+    //Loop through string by whitespace
+    for word in hello.split_whitespace() {
+        println!("{}",word);
+    }
+    
+    // Create string with capacity 
+    let mut s = String::with_capacity(10);
+    s.push('a');
+    s.push('b');
+
+    println!("{}",s);
+
+    //Assertion testing 
+    assert_eq!(2, s.len());//No response if the stmt is correct. In case of false stmt, it'll terminate the program.
+
+    println!("{}", s)
+
+
 
 
 }
