@@ -21,4 +21,6 @@ pub fn run(){
     //Arrays are stack allocated
     println!("Array occupies {} bytes.", std::mem::size_of_val(&numbers));
 
+    // hello asdasd
+
 }
