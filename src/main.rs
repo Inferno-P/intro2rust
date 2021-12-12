@@ -4,6 +4,8 @@ mod types;
 mod strings;
 mod tuples;
 mod arrays;
+mod vectors;
+
 
 
 
