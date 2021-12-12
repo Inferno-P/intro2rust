@@ -23,4 +23,9 @@ pub fn run(){
 
     // hello asdasd
 
+    //Get slice 
+    let slice: &[i32] = &numbers[0..2];
+
+    println!("Slice = {:?}",slice);
+
 }
