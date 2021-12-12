@@ -36,6 +36,15 @@ It has three main benefits:
 ### Hello World!
 
 Typical Rust program looks like this 
+
+Filename : main.rs
 ```
-ok
+fn main() {
+    println!("Hello, world!");
+}
+```
+To execute the above program, execute the below commands on terminal : 
+```
+$ rustc main.rs // This will compile and create a file
+$ ./main
 ```
