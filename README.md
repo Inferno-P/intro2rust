@@ -31,3 +31,11 @@ It has three main benefits:
 - __Zero-cost abstractions.__
     - Zero-cost abstractions make sure that there is virtually no runtime overhead for the abstractions that you use. In simpler words: there is no speed difference between low-level code and one written with abstractions. __Take Notes! JavaScript and GoLang.__
 
+
+---
+### Hello World!
+
+Typical Rust program looks like this 
+```
+ok
+```
