@@ -1,2 +1,10 @@
 # intro2rust
-Trying to learn rust.
+
+#### Objective : 
+To learn the Rust programming language by making basic programs and document important points/learnings.
+
+---
+
+
+
+
