@@ -14,7 +14,8 @@ fn main() {
     //print::run();
     //strings::run();
     //tuples::run();
-    arrays::run();
+    //arrays::run();
+    vectors::run();
 }
 
 
